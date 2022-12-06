@@ -1,0 +1,38 @@
+
+include is Identifier
+ < is Relational operator Lessthan
+stdio is Identifier. is Unsigned Float.
+h is Identifier
+ > is Relational operator Greaterthan
+int is Keyword
+fib is Identifier
+int is Keyword
+n is Identifier
+int is Keyword
+f is Identifier
+2 is Unsigned Integer
+int is Keyword
+i is Identifier
+0 is Unsigned Integer
+ = is Assignment operator
+0 is Unsigned Integer
+1 is Unsigned Integer
+ = is Assignment operator
+1 is Unsigned Integer
+for is Keyword
+ = is Assignment operator
+2 is Unsigned Integer
+ <= is Relational operator Lessthan or Equal to
+ = is Assignment operator
+-1 is Signed Integer
+-2 is Signed Integer
+return is Keyword
+int is Keyword
+main is Identifier
+int is Keyword
+ = is Assignment operator
+9 is Unsigned Integer
+printf is Identifier
+d is Identifier
+return is Keyword
+0 is Unsigned Integer
